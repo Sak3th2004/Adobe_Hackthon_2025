@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Learn Acrobat - Request e-signatures_2.pdf",
+        "persona": " HR Professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-27 21:46:52"
+    },
+    "extracted_section": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 11,
+            "section_title": "Add verification information at signing",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 9,
+            "section_title": "certificates that are signed and certified by a trust anchor. Therefore, adminis",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 1,
+            "section_title": "Adobe LiveCycle Rights Management",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "Add verification information at signing \nTo add verification information while  signing:  \n1. Ensure  that your  computer  can connect  to the appropriate  network resources.  \n2. Go to  Preferences  > Signatures  > Creation  & Appearances : More and make sure that \nthe Include  signature’s revocation  status  option is selected.  \n3. Sign the PDF.  \nIf all the elements of the certificate chain are available, the information is added to the PDF \nautomatically. If a timestamp server has been c on...",
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "certificates that are signed and certified by a trust anchor. Therefore, administrators can \npreconfigure client installations or allow end users to add a trust anchor.  \n \nSign component PDFs and PDF Portfolios   \nYou can sign component  PDFs within a PDF Portfolio,  or sign the PDF Portfolio as a whole.  \nSigning  a component  PDF  locks the PDF for editing  and secures  its content.  After  signing  all \nthe component  PDFs,  you can sign the entire  PDF  Portfolio  to finalize  it. Alternati...",
+            "page_number": 9
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "Adobe LiveCycle Rights Management \n(ALCRM) servers \nAdobe  LiveCycleRights  Management  (ALCRM) servers let you define centralized policies to \ncontrol access to documents. The policies are stored on the ALCRM server. You require server \naccess to use them.  \nALCRM servers embed user access information in documents. Therefore, specify document \nrecipients in ALCRM policies. Alternatively, let the ALCRM server retrieve the list of recipients \nfrom LDAP directories.  \nUse ALCRM servers to set perm...",
+            "page_number": 1
+        }
+    ]
+}

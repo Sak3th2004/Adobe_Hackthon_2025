@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "South of France - Cities.pdf",
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a 4-day trip for 10 college friends to South of France",
+        "processing_timestamp": "2025-07-27 21:44:04"
+    },
+    "extracted_section": [
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 2,
+            "section_title": "Overview of the Region",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 14,
+            "section_title": "Conclusion",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 1,
+            "section_title": "Comprehensive Guide to Major Cities in the South of France",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Overview of the Region  \nThe South of France, or \"Le Midi,\" encompasses the regions of Provence -Alpes -Côte d'Azur, \nOccitanie, and parts of Nouvelle -Aquitaine.  This area is renowned for its diverse landscapes, \nfrom the sun -drenched beaches of the French Riviera to the rolling vineyards of Provence and \nthe rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and \nmild winters, making it a year -round destination. The South of France is also famous for its \ncuisine, win...",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Conclusion  \nThe South of France is home to a diverse array of cities, each with its own unique history, \nculture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval fortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the region. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical \ntreasures and cultural ...",
+            "page_number": 14
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Comprehensive Guide to Major Cities in the South of France \nIntroduction  \nThe South of France, known for its stunning landscapes, Mediterranean coastline, and rich \ncultural heritage, is home to some of the most beautiful and historically significant cities in the \ncountry. This guide provides an in -depth look at the major cities in the South of France, \ndetailing their history, key attractions, cultural highlights, and unique characteristics. Whether you're planning a visit or simply want to ...",
+            "page_number": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Breakfast Ideas.pdf",
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering",
+        "processing_timestamp": "2025-07-27 21:47:38"
+    },
+    "extracted_section": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 16,
+            "section_title": "• Serve immediately.",
+            "importance_rank": 1
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 8,
+            "section_title": "Instructions:",
+            "importance_rank": 2
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 9,
+            "section_title": "• Salt and pepper to taste",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "• Serve immediately.  \n \n \n \nCottage Cheese and Veggie Bowl  \nIngredients:  \n• 1 cup cottage cheese  \n• 1/4 cup diced cucumber  \n• 1/4 cup cherry tomatoes, halved  \n• 1/4 cup diced bell pepper  \n• Salt and pepper to taste  \nInstructions:  \n• In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.  \n• Season with salt and pepper.  \n• Serve immediately.  \n  \n \n \nAlmond Butter and Apple Slices  \nIngredients:  \n• 1 apple, sliced  \n• 2 tablespoons almond butter  \nInstructions: ...",
+            "page_number": 16
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Instructions:  \n• Preheat oven to 425°F (220°C).  \n• Spread marinara sauce over the pizza crust.  \n• Sprinkle mozzarella cheese on top.  \n• Crack the eg gs onto the pizza.  \n• Add sausage or bacon and bell pepper.  \n• Bake for 10 -12 minutes or until the eggs are set and the cheese is melted.  \n• Serve immediately.  \n \n \n Muﬃns  \nIngredients:  \n• 2 cups all -purpose flour  \n• 1/2 cup sugar  \n• 1 tablespoon baking powder  \n• 1/2 teaspoon salt  \n• 1 cup milk  \n• 1/4 cup vegetable oil  \n• 1 large e...",
+            "page_number": 8
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "• Salt and pepper to taste  \nInstructions:  \n• Preheat oven to 350°F (1 75°C).  \n• In a bowl, whisk together eggs, milk, salt, and pepper.  \n• Stir in cheese, sausage or bacon, bell pepper, and onion.  \n• Pour the mixture into a greased baking dish.  \n• Bake for 30 -35 minutes or until the eggs are set. \n• Let cool slightly before serving.  \n \n \n \nBagel with Cream Cheese  \nIngredients:  \n• 1 bagel, sliced and toasted  \n• 2 tablespoons cream cheese  \n• Optional toppings: smoked salmon, capers, re...",
+            "page_number": 9
+        }
+    ]
+}

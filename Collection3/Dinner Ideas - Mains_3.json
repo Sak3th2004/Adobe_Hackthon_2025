@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Dinner Ideas - Mains_3.pdf",
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering",
+        "processing_timestamp": "2025-07-27 21:47:39"
+    },
+    "extracted_section": [
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 9,
+            "section_title": "• 1 bell pepper, diced",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 8,
+            "section_title": "• 1 cup barbecue sauce",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 1,
+            "section_title": "• Return chicken to the skillet and cook until heated through.",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "• 1 bell pepper, diced  \n• 1 cup spinach, chopped  \n• 1 jar (24 ounces) marinara sauce  \n• 1 can (15 ounces) ricotta cheese  \n• 1 egg  \n• 1 cup shredded mozzarella cheese  \n• 1/4 cup grated Parmesan cheese  \n• 2 tablespoons olive oil  \n• Salt and pepper to taste  \nInstructions:  \n• Preheat oven to 375°F (190°C).  \n• In a skillet, heat olive oil over medium heat. Sauté onion , garlic, zucchini, and bell pepper \nuntil tender. Add spinach and cook until wilted.  \n• In a bowl, mix ricotta cheese, eg...",
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "• 1 cup barbecue sauce  \n• 1/2 cup chicken broth  \n• 1 tablespoon brown sugar  \n• 1 teaspoon smoked paprika  \n• Salt and pepper to taste  \n• Buns for serving  \n• Coleslaw for topping (optional)  \nInstructions:  \n• Season pork shoulder with salt, pepper, and smoked paprika.  \n• Place onion and garlic in a slow cooker, then add pork.  \n• Mix barbecue sauce, chicken broth, and brown sugar, and pour over pork.  \n• Cook on low for 8 hours or high for 4 hours until pork shreds easily.  \n• Shred pork w...",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "• Return chicken to the skillet and cook until heated through.  \n• Serve warm.  \n \n \n \nPeking Duck  \nIngredients:  \n• 1 whole duck  \n• 1/4 cup soy sauce  \n• 1/4 cup honey  \n• 2 tablespoons hoisin sauce  \n• 2 tablespoons rice vinegar  \n• 2 cloves garlic, minced  \n• 1 teaspoon five -spice powder  \n• 1 teaspoon grated ginger  \n• 1/4 cup green onions, sliced  \n• Mandarin pancakes for serving  \nInstructions:  \n• Preheat oven to 375°F (190°C).  \n• In a bowl, mix soy sauce, honey, hoisin sauce, rice vi...",
+            "page_number": 1
+        }
+    ]
+}

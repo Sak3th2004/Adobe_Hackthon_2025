@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Learn Acrobat - Edit_1.pdf",
+        "persona": " HR Professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-27 21:46:48"
+    },
+    "extracted_section": [
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "page_number": 9,
+            "section_title": "the handle to resize the text block.",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "page_number": 12,
+            "section_title": "You can change paragraph spacing in Acrobat using forma t text options:",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "page_number": 6,
+            "section_title": "Formatting options on the left pane",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "the handle to resize the text block.  \n \nAdd or edit lists  \nYou can add items to  a numbered or bulleted list, create list items, convert a paragraph to a \nlist item, and conversely. You can also change list types.  \n1. Select  Edit in the global bar. Then, from the Edit panel, select Text  under  Add \nContent.   \n2. To add or remove items from a num bered or bulleted list:  \n• Note: You can add or remove items to the list at all nested levels using the \nsame familiar controls that you use in M...",
+            "page_number": 9
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "You can change paragraph spacing in Acrobat using forma t text options:  \n1. Select  Edit from the global bar in the upper left.   \n2. Select the text for which you want to modify the paragraph spacing.   \n3. From the FORMAT TEXT panel, select Paragraph spacing after  drop -down menu and \nthen select the value to adjust spacing as needed.",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "Formatting options on the left pane  \n• Bold  : Bolds the text.  \n• Italic : Makes the text italic.  \n• Underline : Underlines the text.   \n• Superscript  : Converts the selected text into superscript.  \n• Subscript: Converts the sleected text into subscript.  \n \n4. Select outside the selection to deselect it and start over.  \n \nAdd new text  \nYou can add or insert new text into a PDF using any of the fonts installed on t he system.  \n1. Select  Edit in the global bar. Then, from the Edit panel,...",
+            "page_number": 6
+        }
+    ]
+}

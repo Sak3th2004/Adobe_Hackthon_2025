@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Learn Acrobat - Share_1.pdf",
+        "persona": " HR Professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-27 21:46:53"
+    },
+    "extracted_section": [
+        {
+            "document": "Learn Acrobat - Share_1.pdf",
+            "page_number": 10,
+            "section_title": "• To indicate that a new paragraph should be added, press Enter, and then close",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Share_1.pdf",
+            "page_number": 12,
+            "section_title": "3. Enter the email addresses of the recipients or cho ose from the Address Book.",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Share_1.pdf",
+            "page_number": 7,
+            "section_title": "Highlight, strikethrough, or underline text",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Share_1.pdf",
+            "refined_text": "• To indicate that a new paragraph should be added, press Enter, and then close \nthe pop-up note without adding text. The paragraph insertion \ncaret   appears. \n• To indicate that a space should be added, press the spacebar, and then close \nthe pop-up note without adding text. The space insertion \ncaret   appears.    \n \nNote:  You can also indicate text edits by using the Select tool to select text, right-click the \nselected text, and then choose a text edit annotation.  \n \nExport text edits  \nI...",
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Share_1.pdf",
+            "refined_text": "3. Enter the email addresses of the recipients or cho ose from the Address Book.  \n \n4. Enter a message to the recipients (optional).  \n \nInitiate a review using @mention in a PDF  \nUse @mention in your personal commenting notes to start a review. The @mentions includes \nyour organizational contacts and your synced personal contacts list. The moment you use \n@mention in a PDF file, the review mode gets enabled for you. The reviewers get an invitation \nemail with a link to the Document Cloud shar...",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Share_1.pdf",
+            "refined_text": "Highlight, strikethrough, or underline text \ncomment \nYou can use the Select text or Markup tools to add markups to your text.  \nUsing Select Text Tool  \n1. Open a PDF.  \n2. Use the Select text tool to select the text you want to mark up.  \n3. From the markup toolbar that appears, take one of the following actions as desired:  \n• To highlight text, select Highlight text    \n• To strikethrough the text, select Strikethrough text  \n• To underline text, select Underline   \n• To redact text, select ...",
+            "page_number": 7
+        }
+    ]
+}

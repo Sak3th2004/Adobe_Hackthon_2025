@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "South of France - History.pdf",
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a 4-day trip for 10 college friends to South of France",
+        "processing_timestamp": "2025-07-27 21:44:05"
+    },
+    "extracted_section": [
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 1,
+            "section_title": "A Historical Journey Through the South of France",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 12,
+            "section_title": "Conclusion",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page_number": 9,
+            "section_title": "Aix-en-Provence: A City of Art and Culture",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "A Historical Journey Through the South of France  \nIntroduction  \nThe South of France, renowned for its picturesque landscapes, charming villages, and \nstunning coastline, is also steeped in history. From ancient Roman ruins to medieval fortresses and Renaissance architecture, this region oﬀers a fascinating glimpse into the past. This guide will take you through the histories of major cities, famous historical sites, and other points of interest to help you plan an enriching and unforgettable t...",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Conclusion  \nThe South of France oﬀers a rich tapestry of history, culture, and architecture that is sure to \ncaptivate any traveler. From the ancient Roman ruins of Nîmes and Arles to the medieval fortresses of Carcassonne and Avignon, each city and town has its own u nique story to tell. \nWhether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix -en-\nProvence, or the charming squares of Montpellier, you'll find a wealth of historical treasures \nwaiting to be disc...",
+            "page_number": 12
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Aix-en-Provence: A City of Art and Culture  \nAix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, \nvibrant cultural scene, and association with the painter Pa ul Cézanne. The city's rich history is \nreflected in its beautiful buildings and lively atmosphere.  \nKey Historical Sites in Aix -en-Provence  \n• Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is \nthe heart of Aix -en-Provence. It is a great place to soak up the city...",
+            "page_number": 9
+        }
+    ]
+}

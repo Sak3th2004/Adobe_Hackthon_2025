@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Learn Acrobat - Fill and Sign.pdf",
+        "persona": " HR Professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-27 21:46:50"
+    },
+    "extracted_section": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 8,
+            "section_title": "Fill in PDF Forms",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 12,
+            "section_title": "Change flat forms to fillable (Acrobat  Pro)",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 14,
+            "section_title": "Print forms",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Fill in PDF Forms  \n \nIs the form fillable?  \nNot all forms are fillable. Sometimes form creators don’t convert their PDFs to \ninteractive fillable  forms. Or,  they intentionally design a form that you can fill in only by hand \nor with the Fill & Sign  tool. These non-interactive forms are called  flat forms.  \n \nFill in interactive forms \nAn interactive form contains fields that you can select or fill in.  \n \n1. If necessary, select either the Hand Tool  or the  Select  Tool  from the context ...",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Change flat forms to fillable (Acrobat  Pro)  \nYou can change a flat form to a fillable form by either using the  Prepare  Form  tool or \nenabling the  Fill & Sign  tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool \nto fill in flat forms.  \nInteractive  form  \nTo create an interactive form , use the Prepare  Forms  tool. See  Create  a form  from  an existing \ndocument . \nFlat form  \nTo enable the  Fill & Sign  tools, from the hamburger menu ( File menu in macOS) \nchoose  Save...",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Print forms  \n1. Select  Print this file   from the upper right.  \n2. Choose an appropriate printer in the  Print  dialog box.  \n3. In the  Comments  And Forms  menu, choose one of the following, and then select  OK: \n  \n• (Interactive or flat form) To print the form and the typed entries, \nchoose  Document . This option prints text that you’ve typed using the Add \nText  tool.  \n• (Interactive or flat form) To print the form, the typed entries, and any \ncomments on the form, choose  Document  An...",
+            "page_number": 14
+        }
+    ]
+}

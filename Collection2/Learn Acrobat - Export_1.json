@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Learn Acrobat - Export_1.pdf",
+        "persona": " HR Professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-27 21:46:49"
+    },
+    "extracted_section": [
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "page_number": 30,
+            "section_title": "Convert selected content to other formats",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "page_number": 28,
+            "section_title": "Select and copy text and images",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "page_number": 29,
+            "section_title": "Select all the text on a page",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "refined_text": "Convert selected content to other formats  \nYou convert selected content to other formats by exporting a selection. For example, you can \nselect content and  save  it as a Word  document , Excel spreadsheet, or  comma-separated \nvalues.  \n1. Select the Select  tool . Press Ctrl (Windows) or Command (macOS) to create a \nrectangular selection.  \n2. Drag a rectangle over the content to copy. If you’re selecting text in columns, \npress  Alt (Windows).  \n  \nNote:   To select tables that exceed one pa...",
+            "page_number": 30
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "refined_text": "Select and copy text and images  \nThe Select  tool   lets you select horizontal and vertical text or columns of text, images, \nvector objects, and tables in a PDF. The  Select  tool  recognizes the type of content under \nthe cursor and changes automatically. You can use the Copy, Copy with Formatting, Export \nSelection As, and Paste commands to copy the selected text into another application. Note \nthe following:  \n• If you ’re unable to select text, the text may be part of an image. In Acrobat,...",
+            "page_number": 28
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "refined_text": "Select all the text on a page  \n1. Select  View  from the upper left (macOS) or select the hamburger menu on the u pper \nleft and then select view (Windows). Select  Page  display  > Single -page  view.  \n2. Select four times repeatedly in the text area. This method selects all the text on the \npage regardless of the page layout.  \n  \nNote:  If you choose  any other  page  layout,  all the text in the document  is selected.  \nCopy selected text  \n1. Use the Select tool   to select any amount of ...",
+            "page_number": 29
+        }
+    ]
+}

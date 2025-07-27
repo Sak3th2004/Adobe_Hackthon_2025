@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Learn Acrobat - Request e-signatures_1.pdf",
+        "persona": " HR Professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-27 21:46:52"
+    },
+    "extracted_section": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "page_number": 19,
+            "section_title": "• Download  Form  Field  Data  - Downloads a CSV file of the field -level conten",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "page_number": 14,
+            "section_title": "9. Prepare the Agreement  and Add Fields:",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "page_number": 9,
+            "section_title": "Steps to send in bulk",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "• Download  Form  Field  Data  - Downloads a CSV file of the field -level content for all \nchild agreements spawned from this parent Bulk Send that have been completed.  \n• Download  Individu al Files  - Provides the option to download the individual PDF files \nif multiple files were used to create the web form.  \n• Hide/Unhide  Bulk  Send - Hide/Unhiding the Bulk Send simply removes (or adds) the \nBulk Send from your normal Manage page view. \n• Share  - Shares the Bulk Send along with its statu...",
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "9. Prepare the Agreement  and Add Fields:  \nYou can now add any necessary fields to the agreement. Remember that \na Signature  field must be placed for each signer (including internal counter -singers).  \nThere are two methods to apply fields:  \n1. Simple  Authoring  is loaded by default in most instances. Simple authoring:  \n• Is limited to the most common types of  fields:  \n• Text input (All Text fields are flagged as Required)  \n• Signature  \n• Signer's name (Printed)  \n• Signer's email  \n• ...",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Steps to send in bulk  \n1. Select the Send  in Bulk  tool as explained earlier. The Send in bulk  file upload page \nis displayed.  \n2. Add a file: \nUpload (by search or drag -and -drop) the primary file that you are using to build \nyour agreement template.  \nThe selector on the right of the Select a file button allows you to choose from the \nsource where the file resides. The default is your local system.",
+            "page_number": 9
+        }
+    ]
+}

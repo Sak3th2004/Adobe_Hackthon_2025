@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Learn Acrobat - Generative AI_1.pdf",
+        "persona": " HR Professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-27 21:46:51"
+    },
+    "extracted_section": [
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 5,
+            "section_title": "purposes  that do not include  training  a Large  Language  Model  (“LLM”). Exam",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 2,
+            "section_title": "Overview of generative AI features",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 3,
+            "section_title": "Chrome or  Microsoft Edge. AI Assistant is also available on phones through Acro",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "purposes  that do not include  training  a Large  Language  Model  (“LLM”). Examples  of \nproduct  improvement include  improving  the operability  of generative AI in Acrobat  \nand Acrobat  Reader,  as well as reducing  hallucination,  bias,  and toxicity.  If you do not \nwish  to share  your  content,  please uncheck  the product  improvement checkbox  when  \nyou first provide feedback  on a document.  \nIf manual  review of your  content  takes  place,  a limited  group  of trained  Adobe  per...",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "Overview of generative AI features \nUse the generative AI features in Acrobat and Acrobat Reader to quickly scan through \nlengthy, complex PDF content and get answers or generate a summary.  \n \nNote:  The generative AI features in Acrobat and Acrobat Reader support English, French, \nGerman, Spanish, Italian, Portuguese, or Japanese.  To understand the governing terms, \nreview Adobe's Generative AI User Guidelines. To understand Adobe's data handling \npractices, see Content usage and handling pra...",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "Chrome or  Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile \napps (iOS and Android). It isn't available on iPad or Android tablets.  \n \n \nBenefits of generative AI features  \nThe generative AI features in Acrobat and Acrobat Reader significantly improve \ncomprehension, help you get insights, and produce high -quality content quickly. Here are the \nmain benefits.  \n \n- Improved comprehension:  You can better understand complex PDF documents \nbecause the features pro...",
+            "page_number": 3
+        }
+    ]
+}

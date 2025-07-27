@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "input_document": "Dinner Ideas - Sides_4.pdf",
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering",
+        "processing_timestamp": "2025-07-27 21:47:42"
+    },
+    "extracted_section": [
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 2,
+            "section_title": "o 1 teaspoon salt",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 10,
+            "section_title": "o Chill until set.",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 15,
+            "section_title": "o Serve as a dip or side dish.",
+            "importance_rank": 3
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o 1 teaspoon salt  \no Skewers  \n• Instructions : \no Cut paneer into cubes.  \no Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a \nbowl.  \no Add paneer cubes and marinate for at least 1 hour.  \no Thread paneer onto skewers.  \no Grill or broil until golden, turning occasionally.  \no Serve warm.  \n \nPanzanella  \n• Ingredients : \no 4 cups cubed bread  \no 4 tomatoes  \no 1 cucumber  \no 1 small red onion  \no 1/4 cup basil  \no 1/4 cup olive oil  \no 2 tablespoons red wine v...",
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o Chill until set.  \no Serve with bread.  \n \nRisotto  \n• Ingredients : \no 1 cup Arborio rice  \no 4 cups chicken broth  \no 1/2 cup white wine  \no 1 small onion  \no 2 cloves garlic  \no 1/2 cup Parmesan cheese  \no 2 tablespoons butter  \no 1 tablespoon olive oil  \n• Instructions : \no Heat broth in a pot and keep warm.  \no Sauté diced onion and  minced garlic in olive oil until translucent.  \no Add rice and cook until lightly toasted.  \no Pour in wine and cook until absorbed.  \no Add broth one ladle ...",
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o Serve as a dip or side dish.  \n \nSom Tum (Green Papaya Salad)  \n• Ingredients : \no 1 green papaya  \no 2 tomatoes  \no 1 carrot  \no 2 cloves garlic  \no 2 tablespoons fish sauce  \no 2 tablespoons lime juice  \no 1 tablespoon sugar  \no 1 tablespoon peanuts  \no 1-2 Thai chilies  \n• Instructions : \no Peel and shred green papaya and carrot.  \no Crush garlic and chilies in a mortar and pestle.  \no Add fish sauce, lime juice, a nd sugar, mix well.  \no Toss shredded papaya, carrot, and sliced tomatoes wi...",
+            "page_number": 15
+        }
+    ]
+}

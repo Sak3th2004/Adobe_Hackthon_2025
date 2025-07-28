@@ -59,11 +59,10 @@ docker build --platform linux/amd64 -t challenge1b:latest .
 ### Run Solution (Official Format)
 
 ```bash
-docker run --rm \
-  -v $(pwd)/input:/app/input:ro \
-  -v $(pwd)/output:/app/output \
-  --network none \
-  challenge1b:latest
+docker run --platform linux/amd64 -it --rm `
+>>   -v "C:/Users/kakum/OneDrive/Documents/adobe_1b/input:/app/input" `
+>>   -v "C:/Users/kakum/OneDrive/Documents/adobe_1b/output:/app/output" `
+>>   adobe:challenge1b
 ```
 
 ## Directory Structure
